@@ -44,7 +44,7 @@
       let diff = maintenant - dateDebut; // différence en millisecondes
 
       if (diff < 0) {
-        document.getElementById('compteur').textContent = "Surprise !";
+        document.getElementById('compteur').textContent = "Surprise ! surement bientot dispo";
         return;
       }
 
