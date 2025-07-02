@@ -37,7 +37,7 @@
   });
 
       // Date de début (modifie ici la date réelle de votre début)
-    const dateDebut = new Date(2025, 8, 8, 17, 0, 0);
+    const dateDebut = new Date(2025, 6, 2, 1, 0, 0);
 
     function updateCompteur() {
       const maintenant = new Date();
