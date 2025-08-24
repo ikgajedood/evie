@@ -45,3 +45,24 @@ background-size: cover;
 background-position: center -7vw;
   font-family : Comic Sans MS, cursive, sans-serif;
 }
+
+#boutonpage3
+{
+    float: left;
+      width: 45vw;
+ height: 30vh;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 20px 0;
+  color: #fafafa;
+  text-shadow: 2px 2px 5px rgb(255, 255, 255), 4px 4px 10px #ffffff;
+  border: 10px solid #ffffff;
+  box-shadow: 2px 2px 20px rgb(255, 255, 255), 4px 4px 40px #ffffff;
+  border-radius: 12px;
+  padding: 12px 20px;
+  display: inline-block;
+background-image: url("image/newppv.png");
+background-size: cover;
+background-position: center -0vw;
+  font-family : Comic Sans MS, cursive, sans-serif;
+}
