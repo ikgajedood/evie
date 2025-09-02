@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    background-image: url(image/leydclassic.jpg);
+    background-position: auto;
+    background-size: cover;
+}
+
+h1
+{
+    color: white;
+    font-size: 5.5vw;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 6vw;
+    text-shadow: 2px 2px 5px rgb(255, 255, 255), 4px 4px 10px #ffffff;
+    border: 2px solid #ffffff;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+h3
+{
+    color: white;
+    font-size: 3.5vw;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 0vw;
+    text-shadow: 2px 2px 5px rgb(255, 255, 255), 4px 4px 10px #ffffff;
+    border: 2px solid #ffffff;
+    padding: 20px;
+    border-radius: 50px;
+}
