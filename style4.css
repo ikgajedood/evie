@@ -1,0 +1,18 @@
+body {
+    background-image: url("image/leydforraine.png");
+    background-size: auto 100vh;
+    background-position: center top;
+}
+
+h1
+{
+    color: rgb(255, 225, 205);
+    font-size: 5.5vw;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 6vw;
+    text-shadow: 2px 2px 5px rgb(255, 136, 0), 4px 4px 10px #ffd000;
+    border: 2px solid #ff9900;
+    padding: 10px;
+    border-radius: 50px;
+}

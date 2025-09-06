@@ -1,5 +1,5 @@
 body {
-    background-image: url("image/leydclassic.jpg");
+    background-color: black;
     background-position: center -20vw;
     background-size: cover;
       opacity: 0.7;
@@ -62,6 +62,27 @@ background-position: center -7vw;
   padding: 12px 20px;
   display: inline-block;
 background-image: url("image/newppv.png");
+background-size: cover;
+background-position: center -0vw;
+  font-family : Comic Sans MS, cursive, sans-serif;
+}
+
+#boutonpage4
+{
+    float: right;
+      width: 45vw;
+ height: 30vh;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 20px 0;
+  color: #ffefe0;
+  text-shadow: 2px 2px 5px rgb(255, 118, 6), 4px 4px 10px #ff9a04;
+  border: 10px solid #ff7300;
+  box-shadow: 2px 2px 20px rgb(255, 152, 68), 4px 4px 40px #ffb341;
+  border-radius: 12px;
+  padding: 12px 20px;
+  display: inline-block;
+background-image: url("image/leydforraine.png");
 background-size: cover;
 background-position: center -0vw;
   font-family : Comic Sans MS, cursive, sans-serif;
